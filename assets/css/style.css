@@ -1060,7 +1060,13 @@ section .container {
     } 
 
     } 
+  .facebook{
+  display: none!important;
+  }
 @media (max-width: 992px) {
+  .facebook{
+  display: flex!important;
+  }
  .foto
     {
   width: 100%
