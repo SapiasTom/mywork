@@ -1090,15 +1090,17 @@ section .container {
     transition-property: none!important;
     transition-duration:unset;
   }
-
+.bi-camera{
+  display: none;
+  }
   @media (max-width: 425px) {
 .bi-camera{
   display: flex;
   }
+     
 .desktop{
   display: none;
-  }}
-
-.bi-camera{
-  display: none;
   }
+}
+
+
