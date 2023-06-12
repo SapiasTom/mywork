@@ -1092,7 +1092,13 @@ section .container {
   }
 
   @media (max-width: 425px) {
-
+.bi-camera{
+  display: flex;
+  }
 .desktop{
   display: none;
   }}
+
+.bi-camera{
+  display: none;
+  }
