@@ -824,7 +824,7 @@ section .container {
   bottom: 0;
 
   overflow-x:hidden;
-     overflow-y:visible;
+     overflow-y:hidden;
 }
 
 .portfolio-details .container {
